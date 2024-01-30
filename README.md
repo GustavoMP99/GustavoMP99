@@ -8,6 +8,9 @@ I'm a FullStack Developer and I really enjoy being able to create apps and web p
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)
+![JAVASCRIPT](https://img.shields.io/badge/_-JS-F1E05A.svg?style=for-the-badge)
+![HTML](https://img.shields.io/badge/_-HTML-E34C26.svg?style=for-the-badge)
+![CSS](https://img.shields.io/badge/_-CSS-563D7C.svg?style=for-the-badge)
 
 
 
