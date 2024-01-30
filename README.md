@@ -14,7 +14,7 @@ I'm a FullStack Developer and I really enjoy being able to create apps and web p
 ## Contact
 
 #### Personal Email:
-[![Email](https://img.shields.io/badge/eduardo.binns.sanchez@gmail.com-my_personal_email_-D14836?style=for-the-badge&logo=outlook&logoColor=white&labelColor=101010)](mailto:mendez.p.gus@gmail.com)
+[![Email](https://img.shields.io/badge/mendez.p.gus@gmail.com-my_personal_email_-D14836?style=for-the-badge&logo=outlook&logoColor=white&labelColor=101010)](mailto:mendez.p.gus@gmail.com)
 
 
 ## Stats:
