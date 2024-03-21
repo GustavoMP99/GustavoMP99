@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on freelance projects on React.<br>🌱 I’m currently learning about AWS and SQL.<br>🛹Skilled in design, prototyping, and testing. <br>🫶🏻Experienced in collaborating with international and cross-functional<br>teams. <br>💫Searching for a workplace where I can learn and grow with new tools and technologies.<br>
+🔭 I’m currently working on freelance projects on React.<br>🌱 I’m currently learning about AWS and SQL.<br>🛹Skilled in design, prototyping, and testing. <br>🫶🏻Experienced in collaborating with international and cross-functional teams. <br>💫Searching for a workplace where I can learn and grow with new tools and technologies.<br>
 
 
 ## 🌐 Socials:
